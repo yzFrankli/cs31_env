@@ -1,0 +1,248 @@
+[
+  {
+    "designation": "Medivac",
+    "destination": "KLAX",
+    "max_rain_thresh": 28.1,
+    "flight_id": "NMED009"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KBOS",
+    "max_rain_thresh": 9.9,
+    "flight_id": "NCMR009"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KPHX",
+    "max_rain_thresh": 6.9,
+    "flight_id": "NMED001"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KJFK",
+    "max_rain_thresh": 14.1,
+    "flight_id": "NLGT003"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KBOS",
+    "max_rain_thresh": 8.6,
+    "flight_id": "NLGT009"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KBOS",
+    "max_rain_thresh": 11.8,
+    "flight_id": "NVIP001"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KPHX",
+    "max_rain_thresh": 9.6,
+    "flight_id": "NLGT001"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KLAX",
+    "max_rain_thresh": 15.2,
+    "flight_id": "NCMR002"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KDEN",
+    "max_rain_thresh": 16.6,
+    "flight_id": "NLGT006"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KSEA",
+    "max_rain_thresh": 16.1,
+    "flight_id": "NVIP003"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KSFO",
+    "max_rain_thresh": 10.7,
+    "flight_id": "NVIP005"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KMSP",
+    "max_rain_thresh": 14.1,
+    "flight_id": "NMED010"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KPHX",
+    "max_rain_thresh": 5.5,
+    "flight_id": "NCMR010"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KBOS",
+    "max_rain_thresh": 8.7,
+    "flight_id": "NMED008"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KMIA",
+    "max_rain_thresh": 19.7,
+    "flight_id": "NLGT002"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KJFK",
+    "max_rain_thresh": 8.0,
+    "flight_id": "NMED003"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KATL",
+    "max_rain_thresh": 13.1,
+    "flight_id": "NMED005"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KORD",
+    "max_rain_thresh": 13.0,
+    "flight_id": "NVIP004"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KAUS",
+    "max_rain_thresh": 15.8,
+    "flight_id": "NCMR008"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KMIA",
+    "max_rain_thresh": 21.5,
+    "flight_id": "NMED002"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KLAX",
+    "max_rain_thresh": 15.5,
+    "flight_id": "NVIP002"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KMSP",
+    "max_rain_thresh": 10.8,
+    "flight_id": "NCMR011"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KDEN",
+    "max_rain_thresh": 31.0,
+    "flight_id": "NMED006"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KBOS",
+    "max_rain_thresh": 7.7,
+    "flight_id": "NCMR001"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KDEN",
+    "max_rain_thresh": 28.9,
+    "flight_id": "NCMR007"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KMIA",
+    "max_rain_thresh": 32.0,
+    "flight_id": "NVIP008"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KDEN",
+    "max_rain_thresh": 18.1,
+    "flight_id": "NMED007"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KPHX",
+    "max_rain_thresh": 6.4,
+    "flight_id": "NVIP007"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KMSP",
+    "max_rain_thresh": 14.5,
+    "flight_id": "NVIP006"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KSEA",
+    "max_rain_thresh": 17.5,
+    "flight_id": "NLGT004"
+  },
+  {
+    "designation": "Medivac",
+    "destination": "KORD",
+    "max_rain_thresh": 13.5,
+    "flight_id": "NMED004"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KMSP",
+    "max_rain_thresh": 14.3,
+    "flight_id": "NLGT008"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KSFO",
+    "max_rain_thresh": 8.2,
+    "flight_id": "NLGT007"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KATL",
+    "max_rain_thresh": 19.0,
+    "flight_id": "NCMR006"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KAUS",
+    "max_rain_thresh": 4.0,
+    "flight_id": "NCMR003"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KATL",
+    "max_rain_thresh": 18.7,
+    "flight_id": "NLGT005"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KJFK",
+    "max_rain_thresh": 14.0,
+    "flight_id": "NCMR004"
+  },
+  {
+    "designation": "Light Aircraft",
+    "destination": "KAUS",
+    "max_rain_thresh": 13.6,
+    "flight_id": "NLGT010"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KSEA",
+    "max_rain_thresh": 13.9,
+    "flight_id": "NCMR012"
+  },
+  {
+    "designation": "VIP",
+    "destination": "KJFK",
+    "max_rain_thresh": 14.2,
+    "flight_id": "NVIP009"
+  },
+  {
+    "designation": "Commercial",
+    "destination": "KORD",
+    "max_rain_thresh": 11.0,
+    "flight_id": "NCMR005"
+  }
+]
