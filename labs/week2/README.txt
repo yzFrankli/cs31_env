@@ -1,0 +1,1 @@
+Each week, you'll drop this weeks folder in the notebooks directory!
