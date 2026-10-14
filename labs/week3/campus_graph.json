@@ -1,0 +1,542 @@
+{
+  "nodes": [
+    {
+      "id": "HILL_HALL",
+      "name": "Hillcrest Hall",
+      "category": "residence",
+      "x_m": 120,
+      "y_m": 520,
+      "elevation_m": 41.0
+    },
+    {
+      "id": "SUMMIT_HALL",
+      "name": "Summit Hall",
+      "category": "residence",
+      "x_m": 205,
+      "y_m": 545,
+      "elevation_m": 42.0
+    },
+    {
+      "id": "BEACON_HALL",
+      "name": "Beacon Hall",
+      "category": "residence",
+      "x_m": 290,
+      "y_m": 515,
+      "elevation_m": 40.0
+    },
+    {
+      "id": "UPPER_QUAD",
+      "name": "Upper Quad",
+      "category": "green",
+      "x_m": 205,
+      "y_m": 470,
+      "elevation_m": 39.5
+    },
+    {
+      "id": "NORTH_DINING",
+      "name": "North Dining Commons",
+      "category": "dining",
+      "x_m": 100,
+      "y_m": 430,
+      "elevation_m": 38.0
+    },
+    {
+      "id": "REC_CENTER",
+      "name": "Recreation Center",
+      "category": "athletics",
+      "x_m": 330,
+      "y_m": 440,
+      "elevation_m": 37.0
+    },
+    {
+      "id": "BELL_TOWER",
+      "name": "Bell Tower Overlook",
+      "category": "landmark",
+      "x_m": 205,
+      "y_m": 400,
+      "elevation_m": 34.0
+    },
+    {
+      "id": "SWITCH_A",
+      "name": "Switchback Path North",
+      "category": "path",
+      "x_m": 95,
+      "y_m": 370,
+      "elevation_m": 30.0
+    },
+    {
+      "id": "SWITCH_B",
+      "name": "Switchback Path Mid",
+      "category": "path",
+      "x_m": 150,
+      "y_m": 310,
+      "elevation_m": 22.0
+    },
+    {
+      "id": "SWITCH_C",
+      "name": "Switchback Path South",
+      "category": "path",
+      "x_m": 90,
+      "y_m": 255,
+      "elevation_m": 15.5
+    },
+    {
+      "id": "STAIR_TOP",
+      "name": "Great Stairs (Top)",
+      "category": "path",
+      "x_m": 260,
+      "y_m": 395,
+      "elevation_m": 33.0
+    },
+    {
+      "id": "STAIR_BOTTOM",
+      "name": "Great Stairs (Bottom)",
+      "category": "path",
+      "x_m": 275,
+      "y_m": 300,
+      "elevation_m": 15.0
+    },
+    {
+      "id": "CHAPEL",
+      "name": "Goddard Chapel",
+      "category": "landmark",
+      "x_m": 340,
+      "y_m": 360,
+      "elevation_m": 26.0
+    },
+    {
+      "id": "MAIN_GATE",
+      "name": "Main Gate",
+      "category": "gateway",
+      "x_m": 200,
+      "y_m": 120,
+      "elevation_m": 5.5
+    },
+    {
+      "id": "CENTRAL_GREEN",
+      "name": "Central Green",
+      "category": "green",
+      "x_m": 210,
+      "y_m": 215,
+      "elevation_m": 9.5
+    },
+    {
+      "id": "SCI_CENTER",
+      "name": "Science Center",
+      "category": "academic",
+      "x_m": 110,
+      "y_m": 200,
+      "elevation_m": 12.0
+    },
+    {
+      "id": "ENG_BUILDING",
+      "name": "Engineering Building",
+      "category": "academic",
+      "x_m": 75,
+      "y_m": 145,
+      "elevation_m": 9.5
+    },
+    {
+      "id": "LECTURE_HALL",
+      "name": "Braker Lecture Hall",
+      "category": "academic",
+      "x_m": 300,
+      "y_m": 225,
+      "elevation_m": 10.0
+    },
+    {
+      "id": "LIBRARY",
+      "name": "Tisch Library",
+      "category": "academic",
+      "x_m": 215,
+      "y_m": 165,
+      "elevation_m": 7.0
+    },
+    {
+      "id": "SOUTH_DINING",
+      "name": "South Dining Hall",
+      "category": "dining",
+      "x_m": 130,
+      "y_m": 120,
+      "elevation_m": 6.0
+    },
+    {
+      "id": "STUDENT_CTR",
+      "name": "Student Center",
+      "category": "social",
+      "x_m": 290,
+      "y_m": 150,
+      "elevation_m": 8.0
+    },
+    {
+      "id": "ART_STUDIO",
+      "name": "Art & Design Studio",
+      "category": "academic",
+      "x_m": 375,
+      "y_m": 190,
+      "elevation_m": 14.0
+    },
+    {
+      "id": "HEALTH_CTR",
+      "name": "Health Services",
+      "category": "services",
+      "x_m": 60,
+      "y_m": 225,
+      "elevation_m": 17.0
+    },
+    {
+      "id": "BUS_STOP",
+      "name": "Main Street Bus Stop",
+      "category": "transit",
+      "x_m": 200,
+      "y_m": 55,
+      "elevation_m": 3.0
+    },
+    {
+      "id": "PARKING_S",
+      "name": "South Parking Lot",
+      "category": "parking",
+      "x_m": 90,
+      "y_m": 60,
+      "elevation_m": 3.0
+    }
+  ],
+  "edges": [
+    {
+      "u": "HILL_HALL",
+      "v": "SUMMIT_HALL",
+      "path_type": "walkway",
+      "distance_m": 88.6,
+      "grade_pct": 1.13,
+      "accessible": true
+    },
+    {
+      "u": "SUMMIT_HALL",
+      "v": "BEACON_HALL",
+      "path_type": "walkway",
+      "distance_m": 90.2,
+      "grade_pct": 2.22,
+      "accessible": true
+    },
+    {
+      "u": "HILL_HALL",
+      "v": "UPPER_QUAD",
+      "path_type": "walkway",
+      "distance_m": 98.6,
+      "grade_pct": 1.52,
+      "accessible": true
+    },
+    {
+      "u": "SUMMIT_HALL",
+      "v": "UPPER_QUAD",
+      "path_type": "walkway",
+      "distance_m": 75.0,
+      "grade_pct": 3.33,
+      "accessible": true
+    },
+    {
+      "u": "BEACON_HALL",
+      "v": "UPPER_QUAD",
+      "path_type": "walkway",
+      "distance_m": 96.2,
+      "grade_pct": 0.52,
+      "accessible": true
+    },
+    {
+      "u": "HILL_HALL",
+      "v": "NORTH_DINING",
+      "path_type": "walkway",
+      "distance_m": 92.2,
+      "grade_pct": 5.25,
+      "accessible": true
+    },
+    {
+      "u": "UPPER_QUAD",
+      "v": "NORTH_DINING",
+      "path_type": "walkway",
+      "distance_m": 112.4,
+      "grade_pct": 1.33,
+      "accessible": true
+    },
+    {
+      "u": "BEACON_HALL",
+      "v": "REC_CENTER",
+      "path_type": "walkway",
+      "distance_m": 85.1,
+      "grade_pct": 5.53,
+      "accessible": true
+    },
+    {
+      "u": "UPPER_QUAD",
+      "v": "REC_CENTER",
+      "path_type": "walkway",
+      "distance_m": 128.6,
+      "grade_pct": 1.94,
+      "accessible": true
+    },
+    {
+      "u": "UPPER_QUAD",
+      "v": "BELL_TOWER",
+      "path_type": "walkway",
+      "distance_m": 120.1,
+      "grade_pct": 6.58,
+      "accessible": true
+    },
+    {
+      "u": "REC_CENTER",
+      "v": "BELL_TOWER",
+      "path_type": "walkway",
+      "distance_m": 131.3,
+      "grade_pct": 2.29,
+      "accessible": true
+    },
+    {
+      "u": "NORTH_DINING",
+      "v": "SWITCH_A",
+      "path_type": "path",
+      "distance_m": 190.2,
+      "grade_pct": 4.21,
+      "accessible": true
+    },
+    {
+      "u": "BELL_TOWER",
+      "v": "SWITCH_A",
+      "path_type": "path",
+      "distance_m": 130.1,
+      "grade_pct": 3.08,
+      "accessible": true
+    },
+    {
+      "u": "SWITCH_A",
+      "v": "SWITCH_B",
+      "path_type": "path",
+      "distance_m": 170.2,
+      "grade_pct": 4.71,
+      "accessible": true
+    },
+    {
+      "u": "SWITCH_B",
+      "v": "SWITCH_C",
+      "path_type": "path",
+      "distance_m": 175.1,
+      "grade_pct": 3.71,
+      "accessible": true
+    },
+    {
+      "u": "SWITCH_C",
+      "v": "HEALTH_CTR",
+      "path_type": "path",
+      "distance_m": 40.0,
+      "grade_pct": 3.75,
+      "accessible": true
+    },
+    {
+      "u": "SWITCH_C",
+      "v": "SCI_CENTER",
+      "path_type": "path",
+      "distance_m": 100.1,
+      "grade_pct": 3.5,
+      "accessible": true
+    },
+    {
+      "u": "BELL_TOWER",
+      "v": "STAIR_TOP",
+      "path_type": "walkway",
+      "distance_m": 55.2,
+      "grade_pct": 1.81,
+      "accessible": true
+    },
+    {
+      "u": "STAIR_TOP",
+      "v": "STAIR_BOTTOM",
+      "path_type": "stairs",
+      "distance_m": 97.8,
+      "grade_pct": 18.72,
+      "accessible": false
+    },
+    {
+      "u": "STAIR_BOTTOM",
+      "v": "CENTRAL_GREEN",
+      "path_type": "walkway",
+      "distance_m": 107.1,
+      "grade_pct": 5.14,
+      "accessible": true
+    },
+    {
+      "u": "STAIR_BOTTOM",
+      "v": "LECTURE_HALL",
+      "path_type": "walkway",
+      "distance_m": 110.1,
+      "grade_pct": 4.55,
+      "accessible": true
+    },
+    {
+      "u": "REC_CENTER",
+      "v": "CHAPEL",
+      "path_type": "walkway",
+      "distance_m": 81.4,
+      "grade_pct": 13.64,
+      "accessible": false
+    },
+    {
+      "u": "CHAPEL",
+      "v": "STAIR_TOP",
+      "path_type": "walkway",
+      "distance_m": 87.6,
+      "grade_pct": 9.02,
+      "accessible": false
+    },
+    {
+      "u": "CHAPEL",
+      "v": "ART_STUDIO",
+      "path_type": "walkway",
+      "distance_m": 174.0,
+      "grade_pct": 8.91,
+      "accessible": false
+    },
+    {
+      "u": "SCI_CENTER",
+      "v": "ENG_BUILDING",
+      "path_type": "walkway",
+      "distance_m": 95.0,
+      "grade_pct": 2.63,
+      "accessible": true
+    },
+    {
+      "u": "SCI_CENTER",
+      "v": "HEALTH_CTR",
+      "path_type": "indoor",
+      "distance_m": 45.3,
+      "grade_pct": 11.11,
+      "accessible": false
+    },
+    {
+      "u": "CENTRAL_GREEN",
+      "v": "LIBRARY",
+      "path_type": "walkway",
+      "distance_m": 50.3,
+      "grade_pct": 4.98,
+      "accessible": true
+    },
+    {
+      "u": "CENTRAL_GREEN",
+      "v": "LECTURE_HALL",
+      "path_type": "walkway",
+      "distance_m": 90.6,
+      "grade_pct": 0.55,
+      "accessible": true
+    },
+    {
+      "u": "CENTRAL_GREEN",
+      "v": "SCI_CENTER",
+      "path_type": "walkway",
+      "distance_m": 101.1,
+      "grade_pct": 2.47,
+      "accessible": true
+    },
+    {
+      "u": "LIBRARY",
+      "v": "MAIN_GATE",
+      "path_type": "walkway",
+      "distance_m": 60.0,
+      "grade_pct": 2.5,
+      "accessible": true
+    },
+    {
+      "u": "LIBRARY",
+      "v": "STUDENT_CTR",
+      "path_type": "walkway",
+      "distance_m": 76.5,
+      "grade_pct": 1.31,
+      "accessible": true
+    },
+    {
+      "u": "LIBRARY",
+      "v": "SOUTH_DINING",
+      "path_type": "walkway",
+      "distance_m": 96.2,
+      "grade_pct": 1.04,
+      "accessible": true
+    },
+    {
+      "u": "SOUTH_DINING",
+      "v": "ENG_BUILDING",
+      "path_type": "walkway",
+      "distance_m": 60.5,
+      "grade_pct": 9.79,
+      "accessible": false
+    },
+    {
+      "u": "SOUTH_DINING",
+      "v": "MAIN_GATE",
+      "path_type": "walkway",
+      "distance_m": 70.0,
+      "grade_pct": 0.71,
+      "accessible": true
+    },
+    {
+      "u": "ENG_BUILDING",
+      "v": "HEALTH_CTR",
+      "path_type": "walkway",
+      "distance_m": 95.3,
+      "grade_pct": 9.89,
+      "accessible": false
+    },
+    {
+      "u": "LECTURE_HALL",
+      "v": "STUDENT_CTR",
+      "path_type": "walkway",
+      "distance_m": 90.0,
+      "grade_pct": 2.22,
+      "accessible": true
+    },
+    {
+      "u": "LECTURE_HALL",
+      "v": "ART_STUDIO",
+      "path_type": "walkway",
+      "distance_m": 82.9,
+      "grade_pct": 4.83,
+      "accessible": true
+    },
+    {
+      "u": "STUDENT_CTR",
+      "v": "MAIN_GATE",
+      "path_type": "walkway",
+      "distance_m": 94.9,
+      "grade_pct": 2.64,
+      "accessible": true
+    },
+    {
+      "u": "MAIN_GATE",
+      "v": "BUS_STOP",
+      "path_type": "walkway",
+      "distance_m": 65.0,
+      "grade_pct": 3.85,
+      "accessible": true
+    },
+    {
+      "u": "MAIN_GATE",
+      "v": "PARKING_S",
+      "path_type": "walkway",
+      "distance_m": 125.3,
+      "grade_pct": 2.0,
+      "accessible": true
+    },
+    {
+      "u": "PARKING_S",
+      "v": "SOUTH_DINING",
+      "path_type": "walkway",
+      "distance_m": 72.2,
+      "grade_pct": 4.16,
+      "accessible": true
+    },
+    {
+      "u": "PARKING_S",
+      "v": "BUS_STOP",
+      "path_type": "walkway",
+      "distance_m": 110.1,
+      "grade_pct": 0.0,
+      "accessible": true
+    }
+  ]
+}
