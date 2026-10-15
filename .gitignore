@@ -4,3 +4,4 @@ __pycache__/
 .OTTER_LOG
 .env
 *.zip
+*:Zone.Identifier
